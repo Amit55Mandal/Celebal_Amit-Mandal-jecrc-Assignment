@@ -1,3 +1,11 @@
+---
+
+## 📌 Note for Week 1 Assignment
+If GitHub fails to render the `week1_Amit_Madal_assignment (1).ipynb` file due to its outputs or server load, please use the direct link below to view the complete code and all its generated graphs/outputs:
+
+🚀 **[Click here to view Week 1 Notebook on Google Colab]**(https://colab.research.google.com/github/Amit55Mandal/Celebal_Amit-Mandal-jecrc-Assignment/blob/main/week1_Amit_Madal_assignment%20%281%29.ipynb)
+
+
 # 📌 Important Note for Interviewers / Reviewers
 Due to GitHub's file size limitations (1.55 MB) and server load, the `Week2_Amit_Mandal_Assignment.ipynb` file may fail to render directly on the GitHub UI. 
 
