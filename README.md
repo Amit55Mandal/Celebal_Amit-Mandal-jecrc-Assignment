@@ -1,3 +1,12 @@
+📌 **Important Note for Interviewers / Reviewers for Week 5 Assignment**
+
+Due to GitHub's file size limitations and server load, the `week5_Amit_Mandal_Assignment.ipynb` file may fail to render directly on the GitHub UI.
+
+To view the complete assignment with all code, graphs, visualizations, and execution outputs fully rendered, please click the direct Google Colab link below:
+
+**Google Colab:**
+https://colab.research.google.com/github/Amit55Mandal/Celebal_Amit-Mandal-jecrc-Assignment/blob/main/week5_Amit_Mandal_Assignment.ipynb
+
 # 📌 Important Note for Interviewers / Reviewers for Week 4 Assignment
 
 Due to GitHub's file size limitations and server load, the week4_Amit_Mandal_Assignment.ipynb file may fail to render directly on the GitHub UI.
